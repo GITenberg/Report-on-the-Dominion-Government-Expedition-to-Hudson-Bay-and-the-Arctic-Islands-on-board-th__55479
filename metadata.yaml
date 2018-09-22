@@ -1,11 +1,16 @@
 _repo: Report-on-the-Dominion-Government-Expedition-to-Hudson-Bay-and-the-Arctic-Islands-on-board-th__55479
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 55479-h/images/cover.jpg
 creator:
   author:
     agent_name: Low, A. P.
     gutenberg_agent_id: '48363'
     url: http://www.gutenberg.org/2009/agents/48363
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55479#Report-on-the-Dominion-Government-Expedition-to-Hudson-Bay-and-the-Arctic-Islands-on-board-th_
 gutenberg_issued: '2017-09-03'
 gutenberg_type: Text
 identifiers:
